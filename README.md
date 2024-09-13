@@ -60,7 +60,7 @@ REST-сервис.
 
 > Response:
 > {
-> &emsp; "operationId":"1"
+> &emsp; "operationId":"878ea98c-6eb2-4c9b-a82e-3a982254de92"
 > }
 
 * Пример POST запроса на инициализацию трансфера денежных средств
@@ -76,7 +76,7 @@ REST-сервис.
 
 > &emsp; "code": "0000",
 
-> &emsp; "operationId": "1"
+> &emsp; "operationId": "878ea98c-6eb2-4c9b-a82e-3a982254de92"
 
 > }
 
@@ -84,6 +84,6 @@ REST-сервис.
 
 > {
 
-> &emsp; "operationId":"1"
+> &emsp; "operationId":"878ea98c-6eb2-4c9b-a82e-3a982254de92"
 
 > }
