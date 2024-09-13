@@ -73,10 +73,17 @@ REST-сервис.
 
 > Request Payload :
 > {
+
 > &emsp; "code": "0000",
+
 > &emsp; "operationId": "1"
+
 > }
+
 > Response:
+
 > {
+
 > &emsp; "operationId":"1"
+
 > }
