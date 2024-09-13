@@ -1,0 +1,10 @@
+version: "3.7"
+
+services:
+  backend:
+    image: money-transfer-backend
+    build: ./
+    ports:
+      - "5500:5500"
+    volumes:
+      - ./logs:/logs
